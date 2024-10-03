@@ -1,16 +1,13 @@
-﻿{
-    "name": "com.aadebdeb.gradientskybox",
-    "version": "1.0.0",
-    "displayName": "Gradient Skybox",
-    "description": "A package that provides gradient skyboxes for Unity.",
-    "unity": "2020.3",
-    "author": {
-        "name": "aadebdeb",
-        "email": "aadebdeb@example.com",
-        "url": "https://aadebdeb.com"
-    },
-    "dependencies": {
-        // Specify dependencies if there are any. Example:
-        // "com.unity.render-pipelines.core": "10.5.0"
-    }
+{
+  "name": "com.yourcompany.gradientskybox",
+  "version": "1.0.0",
+  "displayName": "Gradient Skybox",
+  "description": "A Unity package that provides customizable gradient skyboxes.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://yourwebsite.com"
+  },
+  "dependencies": {}
 }
