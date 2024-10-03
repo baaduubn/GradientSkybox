@@ -11,13 +11,6 @@
   ],
   "category": "Rendering",
   "files": [
-    "/LICENSE",
-    "/LICENSE.meta",
-    "/README.md",
-    "/README.md.meta",
-    "/package.json",
-    "/package.json.meta",
-    "/GradientSkybox",
-    "/GradientSkybox.meta"
+
   ]
 }
